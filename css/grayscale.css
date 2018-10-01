@@ -211,6 +211,11 @@
   }
 }
 
+/* .portfolio-item.hangman {
+  background: url('../img/hangman.png');
+  background-size: cover;
+} */
+
 .portfolio-item {
   display: block;
   position: relative;
